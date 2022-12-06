@@ -6,7 +6,7 @@
 ## Prerequisites:
 ####  Install the following 
 <ul>
-  <li>Python   13.9.13</li>
+  <li>Python   3.9.13</li>
   <li>PyTorch  1.13.0</li>
   <li>CV2      4.6.0</li>
 </ul>
